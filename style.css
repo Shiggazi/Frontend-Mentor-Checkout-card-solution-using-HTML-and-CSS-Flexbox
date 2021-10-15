@@ -34,8 +34,8 @@ p{
 }
 .card{
     width: 350px;
-    height :90%;
-    background-color: var(--Very-pale-blue);
+    height :750px;
+    background-color: white;
     align-items: center;
     text-align: center;
     border-radius: 20px;
@@ -51,7 +51,7 @@ p{
 .price{
     display:flex;
     margin: 0 auto;
-    background-color:hsla(225, 100%, 94%, 0.322);
+    background-color: var(--Very-pale-blue);
     padding: 0px 10px;
     justify-content: space-around;
     align-items:center;

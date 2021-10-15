@@ -136,7 +136,7 @@ p{
 .card-image{
     height: 130px;
     padding: 10px;
-    background-image: url(./images/illustration-hero.svg);
+    background-image: url(../images/illustration-hero.svg);
     background-size: contain;
     background-position: center;
     border-radius: 20px 20px 0px 0px;

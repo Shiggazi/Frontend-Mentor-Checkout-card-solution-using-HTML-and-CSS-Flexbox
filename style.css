@@ -13,11 +13,9 @@
 
 body{
     font-family: 'Red Hat Display', Arial, Helvetica, sans-serif ;
-    /* padding: 50px; */
     font-weight: 400, 500, 600;
     max-width: 1440px;
-    /* height: 100vh; */
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
     background-color: var(--Pale-blue);
     background-repeat: no-repeat;
     background-position-y: -50%;
@@ -38,17 +36,13 @@ p{
     width: 350px;
     height :90%;
     background-color: var(--Very-pale-blue);
-    /* align-self: center; */
     align-items: center;
     text-align: center;
-    /* justify-content: space-between ; */
     border-radius: 20px;
 }
 .card-image{
-    /* width: 100%; */
     height: 170px;
-    /* padding: 0px; */
-    background-image: url(images/illustration-hero.svg);
+    background-image: url(../images/illustration-hero.svg);
     background-size: contain;
     background-position: center;
     border-radius: 20px 20px 0px 0px;
@@ -56,9 +50,7 @@ p{
 }
 .price{
     display:flex;
-    /* flex-wrap: wrap; */
     background-color:hsla(225, 100%, 94%, 0.322);
-    /* margin: 0px auto; */
     padding: 0px 10px;
     justify-content: space-around;
     align-items:center;
@@ -67,11 +59,9 @@ p{
     margin-bottom: 25px;
 }
 .price img{
-    /* border: red 1px solid; */
     border-radius: 50%;
 }
 .price p{
-    /* border: red 1px solid; */
     width:100px
 }
 .price a{
@@ -90,9 +80,7 @@ p{
     width: 90%;
     border: none;
     margin :10px auto;
-    /* font-weight: 400px; */
-
-}
+ }
 .payment{
     border-radius: 10px;
     background-color: var(--Bright-blue);
@@ -132,8 +120,6 @@ p{
     }
     .wrapper{
         display:flex;
-        /* border: 1px red solid; */
-        /* height: 70   vh; */
         max-width:100vw ;
         text-align: center;
         align-items: center;
@@ -162,7 +148,6 @@ p{
 .price{
     margin: 10px;
     text-align: center;
-    /* display:block; */
     border-radius: 10px;
     width: 95%;
     padding: 10px 10px;

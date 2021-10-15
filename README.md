@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://shiggazi.github.io/Frontend-Mentor-Checkout-card-solution-using-HTML-and-CSS-Flexbox/)
 
 ## My process
 

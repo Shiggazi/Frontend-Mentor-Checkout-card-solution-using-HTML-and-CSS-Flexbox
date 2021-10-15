@@ -15,7 +15,7 @@ body{
     font-family: 'Red Hat Display', Arial, Helvetica, sans-serif ;
     font-weight: 400, 500, 600;
     max-width: 1440px;
-    background-image: url(../images/pattern-background-desktop.svg);
+    background-image: url(./images/pattern-background-desktop.svg);
     background-color: var(--Pale-blue);
     background-repeat: no-repeat;
     background-position-y: -50%;
@@ -42,7 +42,7 @@ p{
 }
 .card-image{
     height: 170px;
-    background-image: url(../images/illustration-hero.svg);
+    background-image: url(./images/illustration-hero.svg);
     background-size: contain;
     background-position: center;
     border-radius: 20px 20px 0px 0px;
